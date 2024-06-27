@@ -11,7 +11,6 @@ CREATE TABLE `estabelecimento` (
     primary key(email)
 );
 
-
 CREATE TABLE `agenda` (
   `nome_cliente` varchar(200) NOT NULL,
   `nome_profissional` varchar(200) NOT NULL,
